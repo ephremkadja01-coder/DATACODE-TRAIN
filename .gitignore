@@ -1,4 +1,4 @@
 # bloquer les fchiers de données
-data/
+data/raws/
 *.csv
 venv/
